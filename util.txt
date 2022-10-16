@@ -1,0 +1,10 @@
+Docker Hub.: https://hub.docker.com/u/leonardocavi
+
+===================================================
+kubectl.exe get pods
+kubectl.exe get services
+
+Local (minikube).: minikube service --url php
+===================================================
+Complemento.: 	gcloud compute firewall-rules list
+===================================================
